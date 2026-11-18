@@ -1,0 +1,314 @@
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir evidence % [K[?2004h[7mpython3 -c 'from main import CROSS_3, X_3, mac, decide; a = mac(X_3, CROSS_3); b = mac(X_3, X_3); print(a,[7m [7mb, decide(a, b, "A", "B")); print(decide(0.1 + 0.2, 0.3, "A", "B"))'[27m[K[A[27D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m,[27m [27mX[27m_[27m3[27m,[27m [27mm[27ma[27mc[27m,[27m [27md[27me[27mc[27mi[27md[27me[27m;[27m [27ma[27m [27m=[27m [27mm[27ma[27mc[27m([27mX[27m_[27m3[27m,[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m)[27m;[27m [27mb[27m [27m=[27m [27mm[27ma[27mc[27m([27mX[27m_[27m3[27m,[27m [27mX[27m_[27m3[27m)[27m;[27m [27mp[27mr[27mi[27mn[27mt[27m([27ma[27m, [27mb[27m,[27m [27md[27me[27mc[27mi[27md[27me[27m([27ma[27m,[27m [27mb[27m,[27m [27m"[27mA[27m"[27m,[27m [27m"[27mB[27m"[27m)[27m)[27m;[27m [27mp[27mr[27mi[27mn[27mt[27m([27md[27me[27mc[27mi[27md[27me[27m([27m0[27m.[27m1[27m [27m+[27m [27m0[27m.[27m2[27m,[27m [27m0[27m.[27m3[27m,[27m [27m"[27mA[27m"[27m,[27m [27m"[27mB[27m"[27m)[27m)[27m'[?2004l
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'main'
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir evidence % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from main import CROSS_3, X_3, mac, decide; a = mac(X_3, CROSS_3); b = mac(X_3, X_3); print(a[7m,[7m b, decide(a, b, "A", "B")); print(decide(0.1 + 0.2, 0.3, "A", "B"))'[27m[K[A[27D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m,[27m [27mX[27m_[27m3[27m,[27m [27mm[27ma[27mc[27m,[27m [27md[27me[27mc[27mi[27md[27me[27m;[27m [27ma[27m [27m=[27m [27mm[27ma[27mc[27m([27mX[27m_[27m3[27m,[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m)[27m;[27m [27mb[27m [27m=[27m [27mm[27ma[27mc[27m([27mX[27m_[27m3[27m,[27m [27mX[27m_[27m3[27m)[27m;[27m [27mp[27mr[27mi[27mn[27mt[27m([27ma,[27m [27mb[27m,[27m [27md[27me[27mc[27mi[27md[27me[27m([27ma[27m,[27m [27mb[27m,[27m [27m"[27mA[27m"[27m,[27m [27m"[27mB[27m"[27m)[27m)[27m;[27m [27mp[27mr[27mi[27mn[27mt[27m([27md[27me[27mc[27mi[27md[27me[27m([27m0[27m.[27m1[27m [27m+[27m [27m0[27m.[27m2[27m,[27m [27m0[27m.[27m3[27m,[27m [27m"[27mA[27m"[27m,[27m [27m"[27mB[27m"[27m)[27m)[27m'[?2004l
+1.0 5.0 B
+UNDECIDED
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from main import run_manual; run_manual()'[27m[54D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mr[27mu[27mn[27m_[27mm[27ma[27mn[27mu[27ma[27ml[27m;[27m [27mr[27mu[27mn[27m_[27mm[27ma[27mn[27mu[27ma[27ml[27m([27m)[27m'[?2004l
+필터 A (3줄 입력, 공백 구분)
+  1/3행> 0 1
+입력 형식 오류. 각 줄에 유한한 숫자 3개를 공백으로 구분해 입력하세요.
+  1/3행> 9 1   0 1 0
+  2/3행> 1 1 
+입력 형식 오류. 각 줄에 유한한 숫자 3개를 공백으로 구분해 입력하세요.
+  2/3행> 1 1 1
+  3/3행> 1 0 1
+필터 B (3줄 입력, 공백 구분)
+  1/3행> 1 0 1  
+  2/3행> 0 1 0
+  3/3행> 1 0 1
+필터 A와 B를 저장했습니다.
+패턴 (3줄 입력, 공백 구분)
+  1/3행> 1 0 1
+  2/3행> 0 1 0
+  3/3행> 1 0 1
+
+A 점수: 3.0
+B 점수: 5.0
+판정: B
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mprint_benchmark([(3, pattern, filter_a)])[27m[41D[27mp[27mr[27mi[27mn[27mt[27m_[27mb[27me[27mn[27mc[27mh[27mm[27ma[27mr[27mk[27m([27m[[27m([27m3[27m,[27m [27mp[27ma[27mt[27mt[27me[27mr[27mn[27m,[27m [27mf[27mi[27ml[27mt[27me[27mr[27m_[27ma[27m)[27m][27m)[?2004l
+zsh: no matches found: print_benchmark([(3, pattern, filter_a)])
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h칟ㅁㄱ      [7mpython3 -c 'from main import CROSS_3, X_3, print_benchmark; print_benchmark([(3, X_3, CROSS_3)])'[27m
+[K[A[43C[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m,[27m [27mX[27m_[27m3[27m,[27m [27mp[27mr[27mi[27mn[27mt[27m_[27mb[27me[27mn[27mc[27mh[27mm[27ma[27mr[27mk[27m;[27m [27mp[27mr[27mi[27mn[27mt[27m_[27mb[27me[27mn[27mc[27mh[27mm[27ma[27mr[27mk[27m([27m[[27m([27m3[27m,[27m [27mX[27m_[27m3[27m,[27m [27mC[27mR[27mO[27mS[27mS[27m_[27m3[27m)[27m][27m)[27m'[1B[K[?2004l
+
+성능 분석 (MAC 1회 호출 시간의 평균 / 10회)
+      크기       평균 시간(ms)     연산 횟수(N²)
+     3×3        0.001179             9
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h>....                                                                                                    
+[7mnear_tie = [[0.0] * 13 for _ in range(13)][27m[K
+[7mnear_tie[6][0] = 0.1[27m[K
+[7mnear_tie[6][1] = 0.2[27m[K
+[7mnear_tie[0][0] = 0.3[27m[K
+[7mdata["patterns"]["size_13_3"] = {"input": near_tie, "expected": "x"}[27m[K
+[7mdata["patterns"]["size_25_3"] = {"input": [[1]], "expected": "+"}[27m[K
+[K
+[7mtry:[27m[K
+[7m    with path.open("x", encoding="utf-8") as output:[27m[K
+[7m        json.dump(data, output, indent=2)[27m[K
+[7m        output.write("\n")[27m[K
+[7mexcept FileExistsError:[27m[K
+[7m    print("기존 data.json을 사용합니다.")[27m[K
+[7melse:[27m[K
+[7m    print("실습용 data.json을 생성했습니다.")[27m[K[14A[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m [27m=[27m [27m[[27m[[27m0[27m.[27m0[27m][27m [27m*[27m [27m1[27m3[27m [27mf[27mo[27mr[27m [27m_[27m [27mi[27mn[27m [27mr[27ma[27mn[27mg[27me[27m([27m1[27m3[27m)[27m][1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m1[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m1[27m][27m [27m=[27m [27m0[27m.[27m2[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m0[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m3[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m1[27m3[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27mx[27m"[27m}[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m2[27m5[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27m[[27m[[27m1[27m][27m][27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27m+[27m"[27m}[2B[27mt[27mr[27my[27m:[1B[27m [27m [27m [27m [27mw[27mi[27mt[27mh[27m [27mp[27ma[27mt[27mh[27m.[27mo[27mp[27me[27mn[27m([27m"[27mx[27m"[27m,[27m [27me[27mn[27mc[27mo[27md[27mi[27mn[27mg[27m=[27m"[27mu[27mt[27mf[27m-[27m8[27m"[27m)[27m [27ma[27ms[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m:[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mj[27ms[27mo[27mn[27m.[27md[27mu[27mm[27mp[27m([27md[27ma[27mt[27ma[27m,[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m,[27m [27mi[27mn[27md[27me[27mn[27mt[27m=[27m2[27m)[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mo[27mu[27mt[27mp[27mu[27mt[27m.[27mw[27mr[27mi[27mt[27me[27m([27m"[27m\[27mn[27m"[27m)[1B[27me[27mx[27mc[27me[27mp[27mt[27m [27mF[27mi[27ml[27me[27mE[27mx[27mi[27ms[27mt[27ms[27mE[27mr[27mr[27mo[27mr[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m기[27m[27m존[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m사[27m[27m용[27m[27m합[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[1B[27me[27ml[27ms[27me[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m실[27m[27m습[27m[27m용[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m생[27m[27m성[27m[27m했[27m[27m습[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[?2004l
+zsh: parse error near `}'
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h>....                                                                                                    
+[7mnear_tie[6][0] = 0.1[27m[K
+[7mnear_tie[6][1] = 0.2[27m[K
+[7mnear_tie[0][0] = 0.3[27m[K
+[7mdata["patterns"]["size_13_3"] = {"input": near_tie, "expected": "x"}[27m[K
+[7mdata["patterns"]["size_25_3"] = {"input": [[1]], "expected": "+"}[27m[K
+[K
+[7mtry:[27m[K
+[7m    with path.open("x", encoding="utf-8") as output:[27m[K
+[7m        json.dump(data, output, indent=2)[27m[K
+[7m        output.write("\n")[27m[K
+[7mexcept FileExistsError:[27m[K
+[7m    print("기존 data.json을 사용합니다.")[27m[K
+[7melse:[27m[K
+[7m    print("실습용 data.json을 생성했습니다.")[27m[K
+[7mPY[27m[K[14A[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m1[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m1[27m][27m [27m=[27m [27m0[27m.[27m2[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m0[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m3[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m1[27m3[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27mx[27m"[27m}[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m2[27m5[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27m[[27m[[27m1[27m][27m][27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27m+[27m"[27m}[2B[27mt[27mr[27my[27m:[1B[27m [27m [27m [27m [27mw[27mi[27mt[27mh[27m [27mp[27ma[27mt[27mh[27m.[27mo[27mp[27me[27mn[27m([27m"[27mx[27m"[27m,[27m [27me[27mn[27mc[27mo[27md[27mi[27mn[27mg[27m=[27m"[27mu[27mt[27mf[27m-[27m8[27m"[27m)[27m [27ma[27ms[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m:[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mj[27ms[27mo[27mn[27m.[27md[27mu[27mm[27mp[27m([27md[27ma[27mt[27ma[27m,[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m,[27m [27mi[27mn[27md[27me[27mn[27mt[27m=[27m2[27m)[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mo[27mu[27mt[27mp[27mu[27mt[27m.[27mw[27mr[27mi[27mt[27me[27m([27m"[27m\[27mn[27m"[27m)[1B[27me[27mx[27mc[27me[27mp[27mt[27m [27mF[27mi[27ml[27me[27mE[27mx[27mi[27ms[27mt[27ms[27mE[27mr[27mr[27mo[27mr[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m기[27m[27m존[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m사[27m[27m용[27m[27m합[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[1B[27me[27ml[27ms[27me[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m실[27m[27m습[27m[27m용[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m생[27m[27m성[27m[27m했[27m[27m습[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[1B[27mP[27mY[?2004l
+기존 data.json을 사용합니다.
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from main import DATA_PATH, run_json; run_json(DATA_PATH)'[27m[70D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mD[27mA[27mT[27mA[27m_[27mP[27mA[27mT[27mH[27m,[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m;[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m([27mD[27mA[27mT[27mA[27m_[27mP[27mA[27mT[27mH[27m)[27m'[?2004l
+
+[1] 필터 로드
+size_5 필터 로드 완료 (Cross, X)
+size_13 필터 로드 완료 (Cross, X)
+size_25 필터 로드 완료 (Cross, X)
+
+[2] 패턴 분석
+
+--- size_5_1 ---
+Cross 점수: 0.9 | X 점수: 0.8999999999999999
+판정: UNDECIDED | expected: X
+FAIL (점수 차가 epsilon 미만이므로 UNDECIDED)
+
+--- size_5_2 ---
+Cross 점수: 8.9 | X 점수: 0.1
+판정: Cross | expected: Cross
+PASS
+
+--- size_13_1 ---
+Cross 점수: 0.3 | X 점수: 14.700000000000008
+판정: X | expected: X
+PASS
+
+--- size_13_2 ---
+Cross 점수: 7.499999999999997 | X 점수: 7.5
+판정: UNDECIDED | expected: Cross
+FAIL (점수 차가 epsilon 미만이므로 UNDECIDED)
+
+--- size_25_1 ---
+Cross 점수: 4.9 | X 점수: 4.899999999999999
+판정: UNDECIDED | expected: X
+FAIL (점수 차가 epsilon 미만이므로 UNDECIDED)
+
+--- size_25_2 ---
+Cross 점수: 52.9 | X 점수: 0.1
+판정: Cross | expected: Cross
+PASS
+
+[3] 크기별 성능
+
+성능 분석 (MAC 1회 호출 시간의 평균 / 10회)
+      크기       평균 시간(ms)     연산 횟수(N²)
+     3×3        0.001283             9
+     5×5        0.002229            25
+   13×13        0.011450           169
+   25×25        0.039413           625
+
+[4] 결과 요약
+총 테스트: 6개 | 통과: 3개 | 실패: 3개
+실패 케이스
+- size_5_1: 점수 차가 epsilon 미만이므로 UNDECIDED
+- size_13_2: 점수 차가 epsilon 미만이므로 UNDECIDED
+- size_25_1: 점수 차가 epsilon 미만이므로 UNDECIDED
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mmv data.json "data_backup_$(date +%Y%m%d_%H%M%S).json"[27m[54D[27mm[27mv[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m [27m"[27md[27ma[27mt[27ma[27m_[27mb[27ma[27mc[27mk[27mu[27mp[27m_[27m$[27m([27md[27ma[27mt[27me[27m [27m+[27m%[27mY[27m%[27mm[27m%[27md[27m_[27m%[27mH[27m%[27mM[27m%[27mS[27m)[27m.[27mj[27ms[27mo[27mn[27m"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h>....                                                                                                    
+[7mnear_tie[6][0] = 0.1[27m[K
+[7mnear_tie[6][1] = 0.2[27m[K
+[7mnear_tie[0][0] = 0.3[27m[K
+[7mdata["patterns"]["size_13_3"] = {"input": near_tie, "expected": "x"}[27m[K
+[7mdata["patterns"]["size_25_3"] = {"input": [[1]], "expected": "+"}[27m[K
+[K
+[7mtry:[27m[K
+[7m    with path.open("x", encoding="utf-8") as output:[27m[K
+[7m        json.dump(data, output, indent=2)[27m[K
+[7m        output.write("\n")[27m[K
+[7mexcept FileExistsError:[27m[K
+[7m    print("기존 data.json을 사용합니다.")[27m[K
+[7melse:[27m[K
+[7m    print("실습용 data.json을 생성했습니다.")[27m[K
+[7mPY[27m[K[14A[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m1[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m6[27m][27m[[27m1[27m][27m [27m=[27m [27m0[27m.[27m2[1B[27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m[[27m0[27m][27m[[27m0[27m][27m [27m=[27m [27m0[27m.[27m3[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m1[27m3[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27mn[27me[27ma[27mr[27m_[27mt[27mi[27me[27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27mx[27m"[27m}[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27ms[27mi[27mz[27me[27m_[27m2[27m5[27m_[27m3[27m"[27m][27m [27m=[27m [27m{[27m"[27mi[27mn[27mp[27mu[27mt[27m"[27m:[27m [27m[[27m[[27m1[27m][27m][27m,[27m [27m"[27me[27mx[27mp[27me[27mc[27mt[27me[27md[27m"[27m:[27m [27m"[27m+[27m"[27m}[2B[27mt[27mr[27my[27m:[1B[27m [27m [27m [27m [27mw[27mi[27mt[27mh[27m [27mp[27ma[27mt[27mh[27m.[27mo[27mp[27me[27mn[27m([27m"[27mx[27m"[27m,[27m [27me[27mn[27mc[27mo[27md[27mi[27mn[27mg[27m=[27m"[27mu[27mt[27mf[27m-[27m8[27m"[27m)[27m [27ma[27ms[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m:[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mj[27ms[27mo[27mn[27m.[27md[27mu[27mm[27mp[27m([27md[27ma[27mt[27ma[27m,[27m [27mo[27mu[27mt[27mp[27mu[27mt[27m,[27m [27mi[27mn[27md[27me[27mn[27mt[27m=[27m2[27m)[1B[27m [27m [27m [27m [27m [27m [27m [27m [27mo[27mu[27mt[27mp[27mu[27mt[27m.[27mw[27mr[27mi[27mt[27me[27m([27m"[27m\[27mn[27m"[27m)[1B[27me[27mx[27mc[27me[27mp[27mt[27m [27mF[27mi[27ml[27me[27mE[27mx[27mi[27ms[27mt[27ms[27mE[27mr[27mr[27mo[27mr[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m기[27m[27m존[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m사[27m[27m용[27m[27m합[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[1B[27me[27ml[27ms[27me[27m:[1B[27m [27m [27m [27m [27mp[27mr[27mi[27mn[27mt[27m([27m"[27m실[27m[27m습[27m[27m용[27m[27m [27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m을[27m[27m [27m생[27m[27m성[27m[27m했[27m[27m습[27m[27m니[27m[27m다[27m[27m.[27m"[27m)[1B[27mP[27mY[?2004l
+실습용 data.json을 생성했습니다.
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from main import DATA_PATH, run_json; run_json(DATA_PATH)'[27m[70D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mD[27mA[27mT[27mA[27m_[27mP[27mA[27mT[27mH[27m,[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m;[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m([27mD[27mA[27mT[27mA[27m_[27mP[27mA[27mT[27mH[27m)[27m'[?2004l
+
+[1] 필터 로드
+size_5 필터 로드 완료 (Cross, X)
+size_13 필터 로드 완료 (Cross, X)
+size_25 필터 로드 완료 (Cross, X)
+
+[2] 패턴 분석
+
+--- size_5_1 ---
+Cross 점수: 9.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_5_2 ---
+Cross 점수: 1.0 | X 점수: 9.0
+판정: X | expected: X
+PASS
+
+--- size_13_1 ---
+Cross 점수: 25.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_13_2 ---
+Cross 점수: 1.0 | X 점수: 25.0
+판정: X | expected: X
+PASS
+
+--- size_25_1 ---
+Cross 점수: 49.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_25_2 ---
+Cross 점수: 1.0 | X 점수: 49.0
+판정: X | expected: X
+PASS
+
+--- size_13_3 ---
+Cross 점수: 0.30000000000000004 | X 점수: 0.3
+판정: UNDECIDED | expected: X
+FAIL (점수 차가 epsilon 미만이므로 UNDECIDED)
+
+--- size_25_3 ---
+FAIL (input의 행 개수가 25개여야 합니다.)
+
+[3] 크기별 성능
+
+성능 분석 (MAC 1회 호출 시간의 평균 / 10회)
+      크기       평균 시간(ms)     연산 횟수(N²)
+     3×3        0.001242             9
+     5×5        0.002117            25
+   13×13        0.011062           169
+   25×25        0.037704           625
+
+[4] 결과 요약
+총 테스트: 8개 | 통과: 6개 | 실패: 2개
+실패 케이스
+- size_13_3: 점수 차가 epsilon 미만이므로 UNDECIDED
+- size_25_3: input의 행 개수가 25개여야 합니다.
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004hㅔㅛㅅ      ppython 3 main.py[?2004l
+=== Mini NPU Simulator ===
+1. 사용자 입력 (3×3)
+2. data.json 분석
+선택: 9
+1 또는 2를 입력하세요.
+선택: 1
+필터 A (3줄 입력, 공백 구분)
+  1/3행> 01 
+입력 형식 오류. 각 줄에 유한한 숫자 3개를 공백으로 구분해 입력하세요.
+  1/3행> 0 1
+입력 형식 오류. 각 줄에 유한한 숫자 3개를 공백으로 구분해 입력하세요.
+  1/3행> 0 0 0
+  2/3행> 0 0 0
+  3/3행> 0 0 0
+필터 B (3줄 입력, 공백 구분)
+  1/3행> 1
+입력 형식 오류. 각 줄에 유한한 숫자 3개를 공백으로 구분해 입력하세요.
+  1/3행> 1 1 1
+  2/3행> 2   1 1 1 
+  3/3행> 2 1 1 1
+필터 A와 B를 저장했습니다.
+패턴 (3줄 입력, 공백 구분)
+  1/3행> 0 1 0 
+  2/3행> 0 1 0 
+  3/3행> 0 1 0
+
+A 점수: 0.0
+B 점수: 3.0
+판정: B
+
+성능 분석 (MAC 1회 호출 시간의 평균 / 10회)
+      크기       평균 시간(ms)     연산 횟수(N²)
+     3×3        0.003196             9
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from pathlib import Path; from main import run_json; run_json(Path("data_check.json"))'[27m[99D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mp[27ma[27mt[27mh[27ml[27mi[27mb[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mP[27ma[27mt[27mh[27m;[27m [27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m;[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m([27mP[27ma[27mt[27mh[27m([27m"[27md[27ma[27mt[27ma[27m_[27mc[27mh[27me[27mc[27mk[27m.[27mj[27ms[27mo[27mn[27m"[27m)[27m)[27m'[?2004l
+JSON 읽기 오류: [Errno 2] No such file or directory: 'data_check.json'
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 - <<'PY'[27m
+[7mimport json[27m[K
+[7mfrom pathlib import Path[27m[K
+[K
+[7mdata = json.loads(Path("data.json").read_text(encoding="utf-8"))[27m[K
+[7mdata["patterns"]["bad_key"] = data["patterns"].pop("size_25_3")[27m[K
+[7mPath("data_check.json").write_text([27m[K
+[7m    json.dumps(data, ensure_ascii=False, indent=2) + "\n",[27m[K
+[7m    encoding="utf-8",[27m[K
+[7m)[27m[K
+[7mPY[27m[K[10A[41C[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27m [27m<[27m<[27m'[27mP[27mY[27m'[1B[27mi[27mm[27mp[27mo[27mr[27mt[27m [27mj[27ms[27mo[27mn[1B[27mf[27mr[27mo[27mm[27m [27mp[27ma[27mt[27mh[27ml[27mi[27mb[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mP[27ma[27mt[27mh[2B[27md[27ma[27mt[27ma[27m [27m=[27m [27mj[27ms[27mo[27mn[27m.[27ml[27mo[27ma[27md[27ms[27m([27mP[27ma[27mt[27mh[27m([27m"[27md[27ma[27mt[27ma[27m.[27mj[27ms[27mo[27mn[27m"[27m)[27m.[27mr[27me[27ma[27md[27m_[27mt[27me[27mx[27mt[27m([27me[27mn[27mc[27mo[27md[27mi[27mn[27mg[27m=[27m"[27mu[27mt[27mf[27m-[27m8[27m"[27m)[27m)[1B[27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m[[27m"[27mb[27ma[27md[27m_[27mk[27me[27my[27m"[27m][27m [27m=[27m [27md[27ma[27mt[27ma[27m[[27m"[27mp[27ma[27mt[27mt[27me[27mr[27mn[27ms[27m"[27m][27m.[27mp[27mo[27mp[27m([27m"[27ms[27mi[27mz[27me[27m_[27m2[27m5[27m_[27m3[27m"[27m)[1B[27mP[27ma[27mt[27mh[27m([27m"[27md[27ma[27mt[27ma[27m_[27mc[27mh[27me[27mc[27mk[27m.[27mj[27ms[27mo[27mn[27m"[27m)[27m.[27mw[27mr[27mi[27mt[27me[27m_[27mt[27me[27mx[27mt[27m([1B[27m [27m [27m [27m [27mj[27ms[27mo[27mn[27m.[27md[27mu[27mm[27mp[27ms[27m([27md[27ma[27mt[27ma[27m,[27m [27me[27mn[27ms[27mu[27mr[27me[27m_[27ma[27ms[27mc[27mi[27mi[27m=[27mF[27ma[27ml[27ms[27me[27m,[27m [27mi[27mn[27md[27me[27mn[27mt[27m=[27m2[27m)[27m [27m+[27m [27m"[27m\[27mn[27m"[27m,[1B[27m [27m [27m [27m [27me[27mn[27mc[27mo[27md[27mi[27mn[27mg[27m=[27m"[27mu[27mt[27mf[27m-[27m8[27m"[27m,[1B[27m)[1B[27mP[27mY[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h[7mpython3 -c 'from pathlib import Path; from main import run_json; run_json(Path("data_check.json"))'[27m[99D[27mp[27my[27mt[27mh[27mo[27mn[27m3[27m [27m-[27mc[27m [27m'[27mf[27mr[27mo[27mm[27m [27mp[27ma[27mt[27mh[27ml[27mi[27mb[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mP[27ma[27mt[27mh[27m;[27m [27mf[27mr[27mo[27mm[27m [27mm[27ma[27mi[27mn[27m [27mi[27mm[27mp[27mo[27mr[27mt[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m;[27m [27mr[27mu[27mn[27m_[27mj[27ms[27mo[27mn[27m([27mP[27ma[27mt[27mh[27m([27m"[27md[27ma[27mt[27ma[27m_[27mc[27mh[27me[27mc[27mk[27m.[27mj[27ms[27mo[27mn[27m"[27m)[27m)[27m'[?2004l
+
+[1] 필터 로드
+size_5 필터 로드 완료 (Cross, X)
+size_13 필터 로드 완료 (Cross, X)
+size_25 필터 로드 완료 (Cross, X)
+
+[2] 패턴 분석
+
+--- size_5_1 ---
+Cross 점수: 9.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_5_2 ---
+Cross 점수: 1.0 | X 점수: 9.0
+판정: X | expected: X
+PASS
+
+--- size_13_1 ---
+Cross 점수: 25.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_13_2 ---
+Cross 점수: 1.0 | X 점수: 25.0
+판정: X | expected: X
+PASS
+
+--- size_25_1 ---
+Cross 점수: 49.0 | X 점수: 1.0
+판정: Cross | expected: Cross
+PASS
+
+--- size_25_2 ---
+Cross 점수: 1.0 | X 점수: 49.0
+판정: X | expected: X
+PASS
+
+--- size_13_3 ---
+Cross 점수: 0.30000000000000004 | X 점수: 0.3
+판정: UNDECIDED | expected: X
+FAIL (점수 차가 epsilon 미만이므로 UNDECIDED)
+
+--- bad_key ---
+FAIL (케이스 키는 size_{N}_{idx} 형식이어야 합니다.)
+
+[3] 크기별 성능
+
+성능 분석 (MAC 1회 호출 시간의 평균 / 10회)
+      크기       평균 시간(ms)     연산 횟수(N²)
+     3×3        0.001217             9
+     5×5        0.002137            25
+   13×13        0.010946           169
+   25×25        0.036462           625
+
+[4] 결과 요약
+총 테스트: 8개 | 통과: 6개 | 실패: 2개
+실패 케이스
+- size_13_3: 점수 차가 epsilon 미만이므로 UNDECIDED
+- bad_key: 케이스 키는 size_{N}_{idx} 형식이어야 합니다.
+[1m[7m%[27m[1m[0m                                                                                                                                                    [0m[27m[24m[Jdhjung@jeongdahyeui-MacBookAir mac_simul % [K[?2004h
